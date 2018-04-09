@@ -1,0 +1,6 @@
+c:\users\mohan\documents\visual studio 2015\Projects\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+c:\users\mohan\documents\visual studio 2015\Projects\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+c:\users\mohan\documents\visual studio 2015\Projects\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+c:\users\mohan\documents\visual studio 2015\Projects\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojResolveAssemblyReference.cache
+c:\users\mohan\documents\visual studio 2015\Projects\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+c:\users\mohan\documents\visual studio 2015\Projects\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
